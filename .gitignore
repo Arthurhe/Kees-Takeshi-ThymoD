@@ -1,0 +1,7 @@
+#ignore everything
+*
+
+#but not these
+!.gitignore
+!loading\ table/*
+!Analyzing\ CTCF\ tbl.r
